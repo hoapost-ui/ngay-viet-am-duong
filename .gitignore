@@ -1,4 +1,5 @@
 dist/
+public/
 site.tar.gz
 .sites-checkout/
 
