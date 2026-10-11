@@ -20,6 +20,10 @@ npm run validate
 
 Mã Worker nằm tại `worker/index.js`. Bản đóng gói được tạo trong `dist/`.
 
+## Triển khai trên Vercel
+
+Vercel tự chạy `npm run vercel-build` và xuất trang tĩnh trong `public/`. Chỉ cần import kho GitHub này vào Vercel; không cần biến môi trường.
+
 ## Bản đang hoạt động
 
 https://ngay-viet-doi-lich-am-duong.woollylotus256.chatgpt.site
